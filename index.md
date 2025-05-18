@@ -9,3 +9,7 @@
 $ echo "this is awesome"
 this is awesome
 ```
+
+### Now for a task list
+- [ ] Still need to do this
+- [x] This one is done
